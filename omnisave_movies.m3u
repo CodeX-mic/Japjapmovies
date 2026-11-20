@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Movies",Movie 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.hakunaymatata.com/
+https://bcdnw.hakunaymatata.com/resource/bf4e6dbf9bed626b4f700732e0c0494d.mp4?sign=175ff07e7bf86d062ec480d6e8ba7131&t=1795143195
+
+#EXTINF:-1 group-title="Movies",Movie 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.hakunaymatata.com/
+https://bcdnw.hakunaymatata.com/resource/2de60888b094c6fc88db35aa3695f749.mp4?sign=99cf6ca2c8b9766c9c820dec12221bd3&t=1795143188
+
+#EXTINF:-1 group-title="Movies",Movie 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.hakunaymatata.com/
+https://bcdnw.hakunaymatata.com/resource/ce17925e7a9c61ba739d186ccb7c3850.mp4?sign=3bad7411ded0d16f6856aac000e8f068&t=1795143184
+
+#EXTINF:-1 group-title="Movies",Movie 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.hakunaymatata.com/
+https://bcdnw.hakunaymatata.com/resource/93088ce366be93e9c0cc06182b55b940.mp4?sign=6e0d78e9fb0929d2bdc9f8d67fefd4b0&t=1795143126
+
+#EXTINF:-1 group-title="Movies",Movie 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.hakunaymatata.com/
+https://bcdnw.hakunaymatata.com/resource/f5ef9cb9a6381250a00c80e61e46ddf5.mp4?sign=4ca9aef78c7c6bb6f1b3e1a3a27234da&t=1795143119
